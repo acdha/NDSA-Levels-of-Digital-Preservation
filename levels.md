@@ -1,3 +1,7 @@
+# NDSA Levels of Digital Preservation Living Draft
+
+This is a basic attempt to use Github to collaboratively develop a complex document. The table below is standard HTML embedded in a [Markdown](http://daringfireball.net/projects/markdown/syntax) formatted text file. While the [Github Flavored Markdown](http://github.github.com/github-flavored-markdown/) extensions will work we would prefer to avoid them unless absolutely necessary.
+
 <table>
     <caption>NDSA Levels of Digital Preservation</caption>
     <thead>
